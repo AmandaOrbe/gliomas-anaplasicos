@@ -1,48 +1,78 @@
-title: 'Gliomas de bajo grado'
+title: 'Gliomas anaplásicos'
+
 presentacion: presentación
-presentacion_text1:    "En este módulo, y en los tres siguientes dedicados a los tumores del sistema nervioso central del adulto, vamos a revisar los fundamentos prácticos de aquellos tumores que pueden presentarse más frecuentemente en las consultas de oncología médica."
-presentacion_text2:    " En todos ellos, la clave está en un manejo multidisciplinar, que comprende: una primera sospecha clínica y radiológica de la enfermedad, siendo la resonancia magnética, preferentemente con estudios de difusión y perfusión asociados, la prueba complementaria más importante; una resección quirúrgica lo más amplia posible, pero que a la vez preserve de la mejor manera la funcionalidad neurológica del paciente; un análisis patológico completo, en el que ya no nos podemos conformar, tal y como se refleja en la nueva clasificación de la OMS de 2016, con aspectos puramente histológicos, sino que debemos implementar factores moleculares diagnósticos y pronósticos; y un tratamiento posterior basado en radioterapia y quimioterapia, que podrá ser concomitante o secuencial, dependiendo de cada caso concreto."
-presentacion_span: Es por ello que el manejo de estos pacientes y la toma de decisiones, es recomendable que se realicen en el contexto de un equipo multidisciplinar compuesto por neurocirujanos, neurorradiólogos, neuropatólogos, oncólogos radioterápicos y oncólogos médicos.
+presentacion_text:  "En este módulo veremos los fundamentos del diagnóstico y tratamiento de los gliomas anaplásicos."
+
 objetivos: objetivos
-objetivos_text: Comprender los fundamentos de la epidemiología y diagnóstico clínico y radiológico, el diagnóstico patológico y molecular, el tratamiento post-quirúrgico adyuvante, el tratamiento de la enfermedad irresecable y las tendencias de investigación actuales del tratamiento a la recaída de los gliomas de bajo grado.
+objetivos_text: En este segundo módulo vamos a estudiar los gliomas anaplásicos o grado III, en concreto los astrocitomas anáplásicos y los oligodendrogliomas anaplásicos. Con la nueva clasificación de la OMS, la entidad conocida como oligoastrocitoma deja de existir, desde el punto de vista molecular.
+
 epidemiologia: Epidemiología  y  diagnóstico
-epidemiologia_text: "No  existen  causas  claras  exógenas  o  endógenas  para  los  gliomas  de  bajo  grado,  habiéndose  relacionado  en  la  literatura  la  exposición  crónica  a  cloruro  de  vinilo.  Clínicamente,  los  síntomas  serán  aquellos  relacionados  con:"
-hipertension: Hipertensión intracraneal
-hipertension_body:  En caso de que el espacio ocupado por el glioma supere la tolerancia de presión intracraneal. Los más frecuentes son cefalea, visión borrosa y nauseas. Son síntomas muy inespecíficos y fácilmente confundibles con otros cuadros.
-focalidad: Focalidad neurológica
-focalidad_body: Debidos a la localización específica del tumor, se producirá un déficit neurológico concreto motor, sensitivo o mixto.
-epilepsia: Epilepsia
-epilepsia_body: Son uno de los síntomas más frecuentes en gliomas de bajo grado, siendo un síntoma que llega hasta el 70-80% de los pacientes en algún momento de su evolución, siendo más frecuente en oligodendrogliomas que en astrocitomas. En el caso de los gliomas de bajo grado, debido a su lento crecimiento, puede preceder años al diagnóstico del tumor.
-incidencia_span: Los gliomas de bajo grado corresponden a aproximadamente el 15% de los tumores primarios cerebrales en el adulto, y tienen unpico de incidenciaen torno a los 35-45 años
-incidencia_text: '(Pouratian & Schiff, 2010). Su pronóstico es mejor que el de los gliomas anaplásicos y glioblastomas, pudiendo incluso en casos muy seleccionados mantener una actitud expectante. La reciente clasificación molecular ha afinado estos factores pronósticos, si bien se siguen considerando como factores de buen pronóstico los siguientes (deben cumplirse todos) (Sepúlveda-Sánchez et al., 2018):'
-edad: Edad < 40 años
-tamaño: Tamaño tumoral preoperatorio < 4-6cm
-reseccion: Resección completa
-idh: IDH mutado y codelección 1p/19q
-criterios: En los pacientes que cumplen estos criterios, la mediana de supervivencia puede superar los 10 años, mientras que en los que tienen factores de peor pronóstico, está en torno a 4 años (Daniels et al., 2011).
-sospecha: Una vez establecida la sospecha diagnóstica, la prueba de imagen preferida es la resonancia magnética con contraste. A diferencia de los gliomas de alto grado, los gliomas de bajo grado suelen ser hipocaptantes, con imagen hipointensa en T1 e hiperintensa en T2. Clásicamente, los oligodendrogliomas pueden presentar calcificaciones en su interior y además presentar localizaciones corticales, a diferencia de los astrocitomas, más típicos de la sustancia blanca.
-image1_title: "Figura 1: Astrocitoma difuso IDH mutado grado II de la OMS diagnosticado en un varón de 51 años que sufrió una crisis epiléptica. "
-image1_text: "En la RM se identificó una lesión de bordes mal definidos, de localización periférica en el lóbulo frontal derecho, hiperintensa en secuencias FLAIR (A) y T2 (C) e hipointensa en T1 (B). La tumoración no mostraba zonas de edema, necrosis o realce tras la administración del contraste en T1 (D) que indicaran un alto grado histológico de agresividad."
+epidemiologia_text1: "Los gliomas anaplásicos constituyen el 15-20% de los diagnósticos de gliomas. La diferencia entre estos gliomas y los gliomas grado II viene dada por los datos de anatomía patológica, ya "
+epidemiologia_span: que los aspectos moleculares que distinguen al oligodendroglioma del astrocitoma son los mismos que para los gliomas grado II (1p19q, fundamentalmente).
+epidemiologia_text2: "). En estos gliomas anaplásicos, hay datos de mayor agresividad, tales como una mayor presencia de mitosis y atipias y mayor componente celular. Debido a su mayor agresividad, suelen presentarse de forma más frecuente como focalidad neurológica o como síntomas de hipertensión intracraneal, que como síntomas epilépticos."
+epidemiologia_text3: "Radiológicamente la diferencia fundamental en la resonancia magnética es una peor delimitación, efecto masa y edema y presencia de focos de necrosis y realce del contraste."
+image1_title: "Figura 1: Varón de 51 con crisis epilépticas diagnosticado de un astrocitoma anaplásico IDH wildtype grado III de la OMS. "
+image1_text: "En las imágenes de RM se identificó una tumoración difusa que afecta al córtex y sustancia blanca temporal del lado izquierdo hipointensa en la secuencia T1 (A) e hiperintensa en T2 (C). La masa presentó un pequeño componente de edema vasogénico asociado en la secuencia FLAIR (B) y muestra una zona focal de realce -flecha- en la secuencia T1 con gadolinio (D). No se aprecian signos de sangrado o necrosis como signos de agresividad histológica."
+
 diagnostico: Diagnóstico patológico y molecular
-histologicamente: "Histológicamente, los gliomas de bajo grado (consideramos de aquí en adelante a los grado II) se dividían en astrocitomas difusos, oligodendrogliomas y oligoastrocitomas, siendo esta tercer entidad una denominación obsoleta. Desde el punto de vista morfológico, las diferencias fundamentales son:"
+diagnostico_text1: "Una vez diagnosticado de glioma de grado III que no cumpla criterios de glioblastoma (es decir, ausencia de proliferación endotelial y necrosis, ver módulo siguiente), deben hacerse estudios moleculares para clasificarlos en astrocitomas u oligodendrogliomas. La ausencia de mutación en IDH (incluyendo secuenciación) nos excluye oligodendroglioma; la presencia de mutación en IDH y codelección 1p19q nos diagnostica oligodendroglioma anaplásico, ayudándonos en el diagnóstico la mutación en TERT; la presencia de mutación en IDH y ausencia de codelección 1p19q, ayudándonos en el diagnóstico la pérdida de ATRX y mutación en p53, nos confirma el diagnóstico de astrocitoma anaplásico (figura 1)"
+algoritmo_title: "Figura 2: algoritmo diagnóstico de los gliomas anaplásicos. Tomado de (Balañá et al., 2018) "
+diagnostico_span: Suelen presentarse en pacientes más jóvenes que los glioblastomas (alrededor de 5º década de la vida) y su pronóstico es peor que los grado II,
+diagnostico_text2: pero mejor que el glioblastoma, siendo el de mejor pronóstico el oligodendroglioma anaplásico (hasta 13 años de mediana).
+diagnostico_text3: La hipermetilación del promotor de MGMT otorga valor pronóstico, siendo mejor si está metilado, pero no tiene papel (a diferencia de lo que parece que sí sucede en glioblastoma) como factor predictivo de respuesta a quimioterapia en astrocitomas anaplásicos (Weller et al., 2013).
+
+figura_3_a_title: "A) Astrocitoma anaplásico, IDH1 mutado, grado III de la OMS. ATRX mutado y ausencia de Co-deleción 1p/19q. "
+figura_3_a_text: "Histologicamente se observa una neoplasia de densidad celular elevada, que crece sobre un fondo fibrilar. Se contabilizan 2 mitosis en el material examinado. No se observan fenomenos de necrosis tumoral ni proliferación microvascular. "
+figura_3_b_title: "B) Astrocitoma anaplásico, IDH1 mutado, grado III de la OMS. "
+figura_3_b_text: "En la imagen se observa una figura de mitosis (flecha). La presencia de una o más figuras de mitosis en el material examinado, en ausencia de necrosis tumoral o proliferación microvascular hace que la neoplasia (astrocitaria) sea considerada grado III en la clasificación de la OMS. "
+figura_3_c_title: "C) Oligodendroglioma, IDH1 mutado, con Co-deleción 1p/19q, grado III de la OMS. "
+figura_3_c_text: "Se trata de una neoplasia de densidad celular elevada, constituida por elementos de nucleos redondeados, isomorfos, con halo claro perinuclear. Destaca la presencia de focos de calcificación distrófica en el seno de la misma. "
+figura_3_d_title: "D) Oligodendroglioma anaplásico, IDH1 mutado, con co-deleción 1p/19q, grado III de la OMS."
+figura_3_d_text: "La presencia de 6 o más mitosis en 10 campos de gran aumento, o la presencia de necrosis tumoral o de proliferación microsvascular, hacen que un oligodendroglioma sea considerado grado III de la OMS."
+
+tratamiento: "Tratamiento post quirúrgico adyuvante"
+tratamiento_text_1: "El tratamiento quirúrgico mediante craneotomía es de elección para los gliomas anaplásicos, intentando una resección lo más amplia posible preservando la función neurológica. Debe considerarse la realización de una biopsia guiada con neuronavegador o estereotaxia en el caso de lesiones localizadas en regiones profundas del cerebro (ej. ganglios basales), cuando hay participación de áreas elocuentes y no se considere posible conseguir una extirpación amplia, o en caso de lesiones multicéntricas o con extensión bilateral a través del cuerpo calloso. Para optimizar el grado de resección puede recurrirse a la administración oral prequirúrgica de ácido 5-aminolevulínico (5-ALA), cuya aplicación está mejor establecida para el tratamiento del glioblastoma multiforme y se describe en el Módulo 3."
+tratamiento_text_2: "A diferencia de los gliomas de bajo grado, en los que en algunos casos muy seleccionados puede darse la recomendación de no realizar tratamiento, "
+tramiento_span: "en los gliomas anaplásicos se recomienda realizar tratamiento adyuvante post quirúrgico. "
+
+radioterapia: "Radioterapia"
+radioterapia_text: "A diferencia de lo que ocurre en los gliomas de bajo grado, la dosis de RDT debe ser mayor, llegando a dosis máximas de 59.4 - 60Gy a 1,8 – 2Gy/fracción, generalmente administrada en dos fases de tratamiento, siendo la primera la que abarca un mayor volumen y llegando a dosis más bajas de 45-50,4Gy y  la segunda una sobreimpresión o boost llegando hasta las dosis máximas anteriormente descritas, sobre un volumen menor circunscrito a la zona con mayor riesgo de recidiva; este dato ha sido corroborado tanto en estudios clásicos como en los más recientes (Walker et al. (1980) BTSG 7201; EORTC/NCIC (Stupp et al. 2005, 2009); RTOG 9402 (Cairncross et al. JCO 2006); EORTC 26951 (van den Bent et al. JCO 2006); Balañá et al., 2018)."
+
+quimioterapia: "Quimioterapia"
+quimioterapia_text1: "Inicialmente, el ensayo NOA-04, que aleatorizaba a los pacientes a 1) RDT seguida de quimioterapia basada en PCV o temozolomida a la progresión; 2) la secuencia inversa. Ambas estrategias secuenciales demostraron ser similares, si bien PCV fue superior a temozolomida en oligodendrogliomas (definidos como codelección en 1p19q) (Wick et al., 2016)"
+quimioterapia_text2: "El ensayo RTOG 9813, con objetivo principal de supervivencia global en pacientes con astrocitoma anaplásico, no encontró diferencias entre RDT con temozolomida frente a RDT con nitrosureas, si bien el régimen que usaba temozolomida tenía mejor tolerancia (Chang et al., 2017, p. 9)"
+quimioterapia_span1: "En gliomas anaplásicos sin codelección 1p19q "
+quimioterapia_text3: "(es decir, no oligodendrogliomas), el estudio CATNON de la EORTC, que aleatorizó a 745 pacientes a recibir radioterapia sola frente a RDT con temozolomida (150-200 mg/m2 días 1-5 de cada 28 días) o frente a "
+quimioterapia_span2: "RDT con temozolomida "
+quimioterapia_text4: "concurrente con o sin temozolomida,"
+quimioterapia_span3: "demostró un beneficio de supervivencia frente a la radioterapia sola"
+quimioterapia_text5: "en los pacientes que recibieron temozolomida (van den Bent et al., 2017)"
+quimioterapia_text6: "Se ha visto en un análisis de subgrupos del ensayo aleatorizado RTOG 9402 que PCV tras la RDT es mejor en términos de SG que la RDT sola en el subgrupo de gliomas anaplásicos con codelección en 1p19q; es decir, en lo que actualmente se clasifica como oligodendroglioma (14.7 años vs 7.3 años de mediana respectivamente) (Cairncross et al., 2013). De nuevo, la tasa de efectos secundarios de este tratamiento, hace que un porcentaje elevado de pacientes abandone el mismo (en torno a la mitad), por lo que se hace necesaria la comparación con temozolomida. "
+quimioterapia_text7: "Para responder a esta pregunta, el estudio CODEL, actualmente en marcha, y con la hipótesis de que la temozolomida no es inferior a PCV aleatorizará a pacientes con gliomas anaplásicos y codelección 1p19q a recibir RDT + PCV versus RDT+temozolomida. Es de destacar que este ensayo, que tenía un diseño previo de temozolomida sola versus temozolomida + RDT vs RDT sola, demostró que la temozolomida sola era peor que la temozolomida más radioterapia o incluso que la radioterapia sola, con lo cual se demuestra que la RDT no puede ser descartada en estos pacientes y que la temozolomida sola no es suficiente (Jaeckle et al., 2016)"
+quimioterapia_text8: "Por último, para aquellos astrocitomas anaplásicos sin mutación en IDH, dada su baja representación en ensayos, y su pronóstico muy similar a los glioblastomas, se recomienda, sin ser un grado de evidencia I, realizar tratamiento basado en el régimen de Stupp (ver módulo siguiente para más detalles sobre este tratamiento)"
+
+
+inicio: "Tratamiento de la enfermedad no resecable de inicio"
+inicio_text: "No existe evidencia del papel de la neoadyuvancia, y en caso de que un glioma anaplásico no se irresecable de inicio, el papel fundamental de la cirugía es proporcionar datos diagnósticos y pronósticos. Dependiendo de la situación del paciente particular, se puede optar desde el tratamiento paliativo a la radioterapia o la radioterapia combinada con quimioterapia. Esta puede ser con PCV o con temozolomida, si bien en el contexto paliativo, el aparente mayor beneficio (en glimas con codelección, preferentemente) del PCV es descompensado òr su peor perfil de toxicidad en favor de temozolomida."
+
+tendencias: "Tratamiento a la recaída: tendencias actuales"
+tendencias_span: "No existe ningún tratamiento estándar para el paciente que sufre una recaída tras tratamiento completo. "
+tendencias_text_1: "Dependiendo del tiempo desde el fin del tratamiento y de la localización, así como del estado general del paciente, de nuevo se puede plantear (sin grado de evidencia):"
+tendencias_text_2: "Otros fármacos, como el bevacizumab, o la fotemustina, no han demostrado en ningún ensayo aleatorizado que tengan beneficio claro en estos pacientes. "
+tendencias_text_3: "Se recomienda, de nuevo, la inclusión de estos pacientes en ensayos clínicos."
+tendencias_list1: "Re-resección: si las secuelas no son mayores que el potencial beneficio en supervivencia"
+tendencias_list2: "Re-irradiación: dependiendo del tiempo libre de radioterapia y de los campos y dosis previamente utilizados"
+tendencias_list3: "Reintroducción de la quimioterapia previa: dependiendo igualmente del tiempo libre de quimioterapia (habitualmente más de 6 meses), y de la toxicidad experimentada previamente."
+
 astrocitoma: Astrocitoma
 astrocitoma_body: Se cree que la célula de la que derivan son los astrocitos, compartiendo con ellos la tinción de GFAP (útil para el diagnóstico) y a diferencia de los astrocitomas anaplásicos o los glioblastomas, la transición entre el tejido normal y el neoplásico está poco definida, la celularidad y atipia es baja.
 oligodendroglioma: Oligodendroglioma
 oligodendroglioma_body: Se cree que derivan de los oligodendrocitos y su característica más clásica es la aparición de células en huevo frito, que no es sino un artefacto que sólo se ve en las muestras parafinadas y no en fresco. De nuevo, la celularidad y la atipia serán las características que diferencien el grado II del anaplásico o grado III.
-figura_2_a_title: "A) Oligodendroglioma IDH1 mutado"
-figura_2_a_text: " Con co-deleción 1p/19q, grado II de la OMS. Histologicamente corresponde a una neoplasia de celularidad media, constituida por células de núcleos en general isomorfos, redondeados, con halo claro perinuclear. "
-figura_2_b_title: "B) Oligodendroglioma grado II de la OMS. "
-figura_2_b_text: "Tinción inmunohistoquimica IDH1: positiva. Se observa una tinción citoplasmática de las celulas neoplásica. "
-figura_2_c_title: "C) Astrocitoma difuso, IDH1 mutado:"
-figura_2_c_text: "ATRX mutado, grado II de la OMS. Codeleción 1p/19q negativa. Histologicamente corresponde a una prolfieración neoplasica de celularidad media, que crece sobre un fondo fibrilar fino, constituida por celulas de núcleos ovalados o redondeados, de cromatina fina. "
-figura_2_d_title: " D) Astrocitoma difuso: "
-figura_2_d_text: "IDH1 mutado, codeleción 1p/19q negativa, grado II de la OMS. Se observa, en puntos, un fondo fibrilar, vacuolado, que puede confundir con un oligodendroglioma (de ahí la importancia del estudio molecular para categorizar la neoplasia)."
+
 independientemente: "Independientemente de que la primera aproximación siga siendo el análisis morfológico, a día de hoy es imprescindible completar el estudio de cara al diagnóstico definitivo y a la planificación del tratamiento mediante técnicas moleculares"
 imprescindible: Es imprescindible contar con la determinación de mutación de IDH (primero con la inmunotinción, reservando la secuenciación para casos negativos), la tinción de ATRX (si bien esta es más secundaria) y la codelección de 1p19q.
 marcadores: Estos marcadores nos darán información diagnóstica y pronóstica (la mutación de IDH y la codelección 1p19q son marcadores de mejor pronóstico). En el siguiente esquema, extraído de las guías SEOM 2017 sobre diagnóstico y tratamiento de los gliomas de bajo grado, se resume el algoritmo diagnóstico de los gliomas de bajo grado
-algoritmo_title: "Figura 3: Algoritmo diagnóstico molecular de los gliomas de bajo grado. (Sepúlveda-Sánchez et al., 2018)"
 metilacion: "El estado de la metilación del promotor de MGMT, que será discutido en los módulos de gliomas de alto grado, ha sido descrito como un factor independiente de buen pronóstico en gliomas de bajo grado, si bien sus implicaciones en el manejo terapéutico aún no están claras (Bell et al., 2018)"
-tratamiento: "Tratamiento post quirúrgico adyuvante"
 quirurgico: "El tratamiento quirúrgico mediante craneotomía es clave, salvo para tumores de muy buen pronóstico (ver arriba), o cuando haya contraindicaciones claras para la cirugía, en cuyo caso debe garantizarse un seguimiento estrecho para establecer el verdadero comportamiento de la lesión (un porcentaje no desdeñable puede tener un grado mayor de los esperado). "
 reseccion2: "Debe intentarse una resección completa siempre que sea posible, pero no a expensas de un déficit neurológico. La supervivencia y pronóstico mejoran cuanto mayor es el grado de resección, especialmente en el caso del oligodendroglioma. Sin embargo es muy frecuente la implicación de áreas elocuentes cerebrales en los gliomas de bajo grado, por lo que en la cirugía de estas lesiones son especialmente relevantes la monitorización neurofisiológica intraoperatoria, la cirugía con paciente despierto en el caso de tumores que involucren las áreas del lenguaje, y la neuronavegación para definir mejor los límites de la lesión. "
 tumores: "En los tumores que cumplan todos los factores de buen pronóstico (ver apartado anterior para los criterios), con cirugía completa, el seguimiento es una opción tras la intervención quirúrgica. No obstante, en casos en los que haya uno o más factores de riesgo, a saber:"
@@ -52,27 +82,17 @@ codeleccion: "Falta de codelección 1p/19q "
 mutacion: "Falta de mutación en IDH"
 completa: "Resección no completa"
 recomienda: Se recomienda tratamiento complementario post cirugía (Sepúlveda-Sánchez et al., 2018)
-radioterapia: "Radioterapia post operatoria:"
-radioterapia_span: "Si nos decidimos por radioterapia, esta debe ser tras la cirugía (demorarla a recaída conlleva menor supervivencia) y a dosis bajas (50,4-54 Gy a 1,8 Gy/fracción), dosis mayores no han demostrado ni mayor tiempo hasta progresión, ni mayor supervivencia y si mayores tasas de toxicidad, "
-radioterapia_text: " basado en los estudios INT/NCCTG (Shaw et al, 2002), EORTC 22845 y EORTC 22844."
+
 dosimetria: "Figura 3: Imagen de dosimetría IMRT de un glioma de bajo grado"
-quimioterapia: "Quimioterapia adyuvante"
+
 PCV: "PCV"
-quimioterapia_span: "El régimen estándar es el PCV (procarbacina, vincristina y lomustina), único hasta la fecha con nivel de evidencia I "
-quimioterapia_text_1: gracias al estudio RTOG 9802, el cual aleatorizó a 251 pacientes a recibir RDT seguido de 6 ciclos de PCV versus sólo RDT, siendo el objetivo principal la SG. Curiosamente, el primer análisis no demostró un impacto significativo en SG; sin embargo, con casi 12 años de mediana de seguimiento, sí se encontraron diferencias (13.3 años para la RDT y PCV vs 7.8 años para la RDT sola), incluyendo también beneficio en la SLP (10.4 vs 4 años) (Buckner et al., 2016).
-quimioterapia_text_2: Es un caso muy singular en la oncología, en el que tras muchos años de seguimiento, un endpoint tan importante como la SG alcanza diferencias significativas cuando en un primer análisis no lo alcanzó. Si bien hay que tenerlo en cuanta como análisis exploratorios, el mayor beneficio parecía encontrarse en pacientes con histología de oligodendroglima y en pacientes con mutaciones en IDH.
-quimioterapia_text_3: "El principal problema de este tratamiento es su falta de comodidad (necesita tratamiento intravenoso los días 8 y 29 de cada ciclo) y la toxicidad hematológica y clínica, que hace que sólo un 56% de los pacientes completaran el tratamiento por protocolo (Buckner et al., 2016)."
 temozolomida: "Temozolomida"
 temozolomida_text_1: "La temozolomida, de eficacia contrastada en gliomas de alto grado, no tiene la evidencia grado I que tiene el PCV, si bien presenta ventajas evidentes, tales como la comodidad y el perfil de toxicidad de la misma. Existe amplio debate en la neurooncología sobre si, a la vista de que temozolomida es al menos igual de eficaz que PCV en gliomas de alto grado, podemos extrapolar estos datos a los gliomas de bajo grado, especialmente en el contexto adyuvante."
 temozolomida_text_2: "No hay consenso en si, de decidirnos por temozolomida, debe realizarse de forma concomitante con radioterapia o después de la misma, si bien el ensayo con mejor evidencia de uso de temozolomida en gliomas de bajo grado (ensayo fase II, no aleatorizado) usaba un esquema concurrente con la RDT (a dosis de 75 mg/m2) seguido de temozolomida 150-200 mg/m2 días 1-5 de cada 28 durante 12 ciclos, sin alcanzarse la mediana de SLP ni de SG (con 4 años de mediana de seguimiento) y unas tasa de SLP a los 3 años de 59% y de SG de 73% (Fisher et al., 2015)."
 versus: "Temozolomida versus radioterapia"
 versus_text: "Recientemente, un estudio fase III aleatorizado ha evaluado la posibilidad de sustituir la radioterapia por temozolomida en pacientes con glioma de bajo grado, con al menos un factor de riesgo. Aunque las medianas de supervivencia global no han sido alcanzadas en ninguno de los grupos, y aunque la diferencia de SLP no es significativa, si que es numéricamente menor para la rama de temozolomida (39 vs 46 meses) (Baumert et al., 2016). Un resultado interesante de este estudio, es que en el análisis de subgrupos muestra que en pacientes con mutación en IDH y sin codelección de 1p/19q, los pacientes tratados con  radioterapia tenían una mayor SLP que los tratados con temozolomida."
-inicio: "Tratamiento de la enfermedad no resecable de inicio"
-inicio_text: "En estos casos, el tratamiento se considera paliativo, siendo la biopsia indicada para valorar factores pronósticos. No está claro el papel de la quimioterapia neoadyuvante, tanto basada en PCV como en temozolomida, en una potencial conversión de inoperable a operable."
-tendencias: "Tratamiento a la recaída: tendencias actuales"
-tendencias_text_1: "El tratamiento a la recaída de gliomas de bajo grado es, al igual que los gliomas de alto grado, materia de controversia. En la medida de lo posible, se intentará cirugía de rescate, sobre todo por la posible transformación a alto grado. Dependiendo del escenario en que nos encontremos, podemos ir desde un tratamiento con intención radical (por ejemplo, un paciente al que no se le hubiera aplicado radioterapia tras cirugía) a un tratamiento exclusivamente paliativo. "
-tendencias_span: "Se recomienda la inclusión de estos pacientes en ensayos clínicos."
-tendencias_text_2: "Un reciente estudio fase II aleatorizado ha mostrado que la adición de bevacizumab a temozolomida en gliomas de grado II y III sin codelección 1p/19q en pacientes a la primera recaída no aporta beneficio significativo a la temozolmida sola en términos de supervivencia global (Bent et al., 2018)"
+
+
 evaluacion: Evaluación
 pregunta1: Pregunta 1
 pregunta1_text: "¿Qué dos marcadores moleculares son imprescindibles para el correcto diagnóstico de los gliomas de bajo grado?"
