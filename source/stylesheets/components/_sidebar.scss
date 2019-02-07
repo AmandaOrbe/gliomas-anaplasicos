@@ -46,8 +46,10 @@
     padding-left: 4rem;
     padding-top: 4rem;
     height:28rem;
+    width: 100%;
     @include respond(portrait) { // width < 1200
       height:24rem; //1rem = 9px,  9/16 = 56,25%
+      padding-left: 2rem;
     }
     @include respond(phone) { // width < 1200
     width:100%;
