@@ -18,7 +18,7 @@ diagnostico: Diagnóstico patológico y molecular
 diagnostico_text1: "Una vez diagnosticado de glioma de grado III que no cumpla criterios de glioblastoma (es decir, ausencia de proliferación endotelial y necrosis, ver módulo siguiente), deben hacerse estudios moleculares para clasificarlos en astrocitomas u oligodendrogliomas. La ausencia de mutación en IDH (incluyendo secuenciación) nos excluye oligodendroglioma; la presencia de mutación en IDH y codelección 1p19q nos diagnostica oligodendroglioma anaplásico, ayudándonos en el diagnóstico la mutación en TERT; la presencia de mutación en IDH y ausencia de codelección 1p19q, ayudándonos en el diagnóstico la pérdida de ATRX y mutación en p53, nos confirma el diagnóstico de astrocitoma anaplásico (figura 1)"
 algoritmo_title: "Figura 2: algoritmo diagnóstico de los gliomas anaplásicos. Tomado de (Balañá et al., 2018) "
 diagnostico_span: Suelen presentarse en pacientes más jóvenes que los glioblastomas (alrededor de 5º década de la vida) y su pronóstico es peor que los grado II,
-diagnostico_text2: pero mejor que el glioblastoma, siendo el de mejor pronóstico el oligodendroglioma anaplásico (hasta 13 años de mediana).
+diagnostico_text2:  " pero mejor que el glioblastoma, siendo el de mejor pronóstico el oligodendroglioma anaplásico (hasta 13 años de mediana)."
 diagnostico_text3: La hipermetilación del promotor de MGMT otorga valor pronóstico, siendo mejor si está metilado, pero no tiene papel (a diferencia de lo que parece que sí sucede en glioblastoma) como factor predictivo de respuesta a quimioterapia en astrocitomas anaplásicos (Weller et al., 2013).
 
 figura_3_a_title: "A) Astrocitoma anaplásico, IDH1 mutado, grado III de la OMS. ATRX mutado y ausencia de Co-deleción 1p/19q. "
@@ -53,7 +53,7 @@ quimioterapia_text8: "Por último, para aquellos astrocitomas anaplásicos sin m
 
 
 inicio: "Tratamiento de la enfermedad no resecable de inicio"
-inicio_text: "No existe evidencia del papel de la neoadyuvancia, y en caso de que un glioma anaplásico no se irresecable de inicio, el papel fundamental de la cirugía es proporcionar datos diagnósticos y pronósticos. Dependiendo de la situación del paciente particular, se puede optar desde el tratamiento paliativo a la radioterapia o la radioterapia combinada con quimioterapia. Esta puede ser con PCV o con temozolomida, si bien en el contexto paliativo, el aparente mayor beneficio (en glimas con codelección, preferentemente) del PCV es descompensado òr su peor perfil de toxicidad en favor de temozolomida."
+inicio_text: "No existe evidencia del papel de la neoadyuvancia, y en caso de que un glioma anaplásico irresecable de inicio, el papel fundamental de la cirugía es proporcionar datos diagnósticos y pronósticos. Dependiendo de la situación del paciente particular, se puede optar desde el tratamiento paliativo a la radioterapia o la radioterapia combinada con quimioterapia. Esta puede ser con PCV o con temozolomida, si bien en el contexto paliativo, el aparente mayor beneficio (en gliomas con codelección, preferentemente) del PCV es descompensado por su peor perfil de toxicidad en favor de temozolomida."
 
 tendencias: "Tratamiento a la recaída: tendencias actuales"
 tendencias_span: "No existe ningún tratamiento estándar para el paciente que sufre una recaída tras tratamiento completo. "

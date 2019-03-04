@@ -149,59 +149,7 @@
       </ul>
     </div>
 
-    <div id= "caso_practico" class="content--2">
-      <div id="pregunta3" >
-        <div >
-          <%= partial(:'components/header1', :locals => { :text => t.caso_practico}) %>
-          <h3 class="margin7"> <%= t.texto_planteamiento  %> </h3>
 
-          <p class="margin5"><span class="list__star">*</span><%= t.planteamiento1 %> </p>
-          <p class="margin2 " ><span class="list__star">*</span><%= t.planteamiento2 %> </p>
-          <p class="margin2 " ><span class="list__star">*</span><%= t.planteamiento3 %> </p>
-          <p  class="margin2 "><span class="list__star">*</span><%= t.planteamiento4 %> </p>
-          <p class="margin2 " ><span class="list__star">*</span><%= t.planteamiento5 %> </p>
-          <p class="margin2 " ><span class="list__star">*</span><%= t.planteamiento6 %> </p>
-
-
-          <h3 class="margin7"> <%= t.reflexion %> </h3>
-          <p class="margin5 " ><i> <%= t.pregunta_reflexion_1 %> </i></p>
-          <div class="margin5"> <%= partial(:'components/test',  :locals => { :test_options => [t.caso_practico_opt_a, t.caso_practico_opt_b, t.caso_practico_opt_c ], :name => "pregunta3", :correct => 0}) %>
-          </div>
-          <div class="test__answer__correct3">
-            <h4>¡CORRECTO!</h4>
-            <p><%= t.answer3 %></p>
-            </div>
-
-          <div class="test__answer__incorrect3 ">
-            <h4>¡INCORRECTO!</h4>
-            <p><%= t.answer3  %></p>
-          </div>
-        </div>
-      </div>
-<br>
-<br>
-<br>
-      <div id="pregunta4">
-      <h3 class="margin7"> <%= t.continuacion  %> </h3>
-      <p class="margin5"> <%= t.texto_continuacion  %> </p>
-      <p class="margin5"> <i> <%= t.pregunta_continuacion  %></i> </p>
-      <div class="margin5"> <%= partial(:'components/test',  :locals => { :test_options => [t.caso_practico2_opt_a, t.caso_practico2_opt_b, t.caso_practico2_opt_c ], :name => "pregunta4", :correct => 0}) %>
-      </div>
-      <div class="test__answer__correct4">
-          <h4>¡CORRECTO!</h4>
-          <p><%= t.answer4  %></p>
-
-
-        </div>
-
-        <div class="test__answer__incorrect4 ">
-          <h4>¡INCORRECTO!</h4>
-          <p><%= t.answer4%></p>
-        </div>
-
-
-      </div>
-    </div>
 
 
 

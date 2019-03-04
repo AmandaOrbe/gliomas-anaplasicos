@@ -42,23 +42,6 @@ const testAnswerIncorrect2 = document.querySelector(".test__answer__incorrect2")
 
 
 
-const respuestaCorrecta3 = document.getElementById("C-LaA,conausenciadecodelección1p19q")
-const button3 = document.getElementById("pregunta3__button")
-const question3 = document.getElementById("pregunta3");
-const respuestasIncorrectas3 = [document.querySelectorAll('.form__group')[8], document.querySelectorAll('.form__group')[9]];
-const question3Inputs = [radioInputs[8], radioInputs[9], radioInputs[10]];
-const testAnswerCorrect3 = document.querySelector(".test__answer__correct3");
-const testAnswerIncorrect3 = document.querySelector(".test__answer__incorrect3");
-
-
-const respuestaCorrecta4 = document.getElementById("C-Radioterapia(+/-temozolomidaconcurrente)seguidadetemozolomidaadyuvante")
-const button4 = document.getElementById("pregunta4__button")
-const question4 = document.getElementById("pregunta4");
-const respuestasIncorrectas4 = [document.querySelectorAll('.form__group')[11], document.querySelectorAll('.form__group')[12]];
-const question4Inputs = [radioInputs[11], radioInputs[12], radioInputs[13]];
-const testAnswerCorrect4 = document.querySelector(".test__answer__correct4");
-const testAnswerIncorrect4 = document.querySelector(".test__answer__incorrect4");
-
 
 const presentacionTab = document.getElementById("side_Presentación");
 const presentacion = document.getElementById("Prese");
@@ -110,9 +93,7 @@ const chapters = [{tab: presentacionTab, content: presentacion} ,
                 ]
 
 const questions = [ {tab: pregunta1Tab, content: pregunta1},
-                    {tab: pregunta2Tab, content: pregunta2},
-                    {tab: pregunta3Tab, content: pregunta3},
-                    {tab: pregunta4Tab, content: pregunta4},
+                    {tab: pregunta2Tab, content: pregunta2}
                   ]
 
 //  ************************************ QUIZ *************************
@@ -192,14 +173,6 @@ question2.addEventListener("click", function(event){
 });
 
 
-question3.addEventListener("click", function(event){
-  buttonOn(question3Inputs, button3);
-});
-
-
-question4.addEventListener("click", function(event){
-  buttonOn(question4Inputs, button4);
-});
 
 
 
@@ -220,18 +193,7 @@ button2.addEventListener("click", function(event){
   updateQuestionTabs(pregunta2Tab, "pregunta2");
 });
 
-button3.addEventListener("click", function(event){
-  event.preventDefault();
-  checkSolution(respuestaCorrecta3, question3Inputs, respuestasIncorrectas3, "pregunta3" , testAnswerCorrect3, testAnswerIncorrect3);
-  updateQuestionTabs(pregunta3Tab, "pregunta3");
-});
 
-
-button4.addEventListener("click", function(event){
-  event.preventDefault();
-  checkSolution(respuestaCorrecta4, question4Inputs, respuestasIncorrectas4, "pregunta4" , testAnswerCorrect4, testAnswerIncorrect4);
-  updateQuestionTabs(pregunta4Tab, "pregunta4");
-});
 
 
 
@@ -293,9 +255,7 @@ window.addEventListener('load', function(){
   window.scrollTo(0, localStorage.getItem('windowHeight'))
   updateQuestionTabs(pregunta1Tab, "pregunta1");
   updateQuestionTabs(pregunta2Tab, "pregunta2");
-  updateQuestionTabs(pregunta3Tab, "pregunta3");
-  updateQuestionTabs(pregunta4Tab, "pregunta4");
-});
+ });
 
 
 
